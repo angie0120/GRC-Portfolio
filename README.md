@@ -4,7 +4,7 @@
 Hi, I'm Angeline, a GRC professional with a focus on AWS cloud security.
 
 ## Professional Summary
-I'm a cybersecurity risk management and GRC professional with demonstrated success in enterprise risk assessment, control validation, and regulatory compliance. Proven ability to partner effectively with senior leadership, internal audit teams, and cross-functional stakeholders to strengthen risk frameworks, streamline remediation efforts, and enhance organizational resilience. Skilled in compliance program management, risk methodologies, and data-driven reporting using platforms like ServiceNow GRC. CISA-certified and experienced with NIST CSF 2.0, SOC 2, GDPR, and regulatory standards. Committed to fostering a culture of compliance and proactive risk mitigation.
+I'm a cybersecurity risk management professional with a proven track record in enterprise risk assessment, control validation, and regulatory compliance. Adept at collaborating with senior leadership, internal audit, and cross-functional teams to strengthen risk frameworks, streamline remediation efforts, and enhance organizational resilience. Experienced in managing compliance programs and applying risk methodologies, with hands-on expertise in ServiceNow GRC and AuditBoard platforms.
 
 ### Cloud Platforms
 - Amazon Web Services (AWS)
@@ -20,7 +20,7 @@ I'm a cybersecurity risk management and GRC professional with demonstrated succe
 ## Certifications
 
 - Certified Information Systems Auditor (CISA)
-- AWS Certified Cloud Practitioner (expires Dec 2026)
-- CompTIA A+ (expires June 2028)
-- CompTIA Network+ (expires August 2028)
+- AWS Certified Cloud Practitioner
+- CompTIA A+
+- CompTIA Network+
 - LPI Linux Essentials Certificate
