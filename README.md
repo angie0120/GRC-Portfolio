@@ -1,5 +1,8 @@
 # GRC Professional Portfolio: Angeline Williams
 
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen)](https://www.linkedin.com/in/angeline-williams/)
+
+
 ## About Me
 Hi, I'm Angeline, a GRC professional with a focus on AWS cloud security.
 
