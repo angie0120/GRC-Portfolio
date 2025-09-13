@@ -1,7 +1,7 @@
 # GRC Professional Portfolio: Angeline Williams
 
 <a href="https://www.linkedin.com/in/angeline-williams/" target="_blank">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen" width="150" alt="Open to Work Badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen" width="100" alt="Open to Work Badge" />
 </a>
 
 ## About Me
